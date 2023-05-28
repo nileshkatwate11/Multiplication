@@ -17,7 +17,10 @@ public class multi {
 		a=70;
 		b=90;
 		System.out.println("Multiplication :"+(a*b));
-		
+		//added by ajit for conflict
+		a=90;
+		b=100;
+		System.out.println("Multiplication :"+(a*b));
 		
 
 	}
