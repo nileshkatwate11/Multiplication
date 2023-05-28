@@ -9,6 +9,11 @@ public class multi {
 		a=30;
 		b=40;
 		System.out.println("Multiplication :"+(a*b));
+		//added by sujit
+		a=50;
+		b=60;
+		System.out.println("Multiplication :"+(a*b));
+		
 
 	}
 
