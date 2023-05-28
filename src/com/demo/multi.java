@@ -13,6 +13,11 @@ public class multi {
 		a=50;
 		b=60;
 		System.out.println("Multiplication :"+(a*b));
+		//added by ajit
+		a=70;
+		b=90;
+		System.out.println("Multiplication :"+(a*b));
+		
 		
 
 	}
